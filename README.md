@@ -48,7 +48,7 @@ You need to have a [Firebase](https://firebase.google.com/) account and a projec
 
 ## 💻 Project
 
-Letmeask was thought for influencers and content makers. In this app, you can create Q&A rooms with public in a well-organized way and leave it opened while you host a stream session. Participants can like questions to make them more popular and room creators can highlight the questions to show which one is being currently answered, check them as answered and even delete them.
+Let me ask someone was thought for content creators. In this app, you can create Q&A rooms with public in a well-organized way and leave it opened while you host a stream session. Participants can like questions to make them more popular and room creators can highlight the questions to show which one is being currently answered, check them as answered and even delete them.
 
 This project was developed during Rocketseat's **[Next Level Week Together](https://nextlevelweek.com/)**, held from 20 - 27 June 2021.
 
